@@ -1,13 +1,13 @@
 <h1 align="center">Hi :wave:, I'm Myranae</h1>
 
-<h3 align="center">A collaborative full-stack developer from Massachusetts</h3>
+<h3 align="center">A collaborative fullstack developer from Minnesota</h3>
 <img align="right" alt="woman-coding" width="450" src="https://cdni.iconscout.com/illustration/free/thumb/women-web-developer-with-laptop-2040890-1721886.png">
 
-- 🔭 I'm currently working on **JavaScript and React projects at Khan Academy**
+- 🔭 I'm currently working on **TypeScript and React projects at Khan Academy**
 
 - 🌱 I'm currently learning **Go and GraphQL**
 
-- 👨‍💻 All of my school projects are available on my GitHub. Here is the open source <a href="https://github.com/Khan/perseus">repo</a> I've contributed to during my internship.
+- 👨‍💻 All of my school projects are available on my GitHub. Here is the open source <a href="https://github.com/Khan/perseus">repo</a> I contribute to at work.
 
 - ⚡ Fun fact **I have a degree in Library Science**
 
