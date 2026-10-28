@@ -3,13 +3,13 @@
 <h3 align="center">A collaborative fullstack developer</h3>
 <img align="right" alt="woman-coding" width="450" src="https://cdni.iconscout.com/illustration/free/thumb/women-web-developer-with-laptop-2040890-1721886.png">
 
-- 🔭 I'm currently working on **TypeScript and React projects at Khan Academy**
+- 🔭 I previously worked on **TypeScript and React projects at Khan Academy**
 
-- 🌱 I'm currently learning **Go and GraphQL**
+- 🌱 I'm currently practicing **backend** and **AI development**
 
-- 👨‍💻 All of my school projects are available on my GitHub. Here is the open source <a href="https://github.com/Khan/perseus">repo</a> I contribute to at work.
+- 👨‍💻 All of my school projects are available on my GitHub. Here is the open source <a href="https://github.com/Khan/perseus">repo</a> I contributed to at work.
 
-- ⚡ Fun fact **I have a degree in Library Science**
+- ⚡ Fun fact **I have a degree in Library Science and have experience in school, public, and academic libraries!**
 <!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
